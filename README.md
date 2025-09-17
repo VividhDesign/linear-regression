@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-This project implements a linear regression model from scratch to predict housing prices using a dataset of residential properties. The goal is to demonstrate a fundamental understanding of machine learning principles by manually performing key steps, including data preprocessing, feature engineering, and model training using the **Normal Equation**.
+This project implements a linear regression model from scratch to predict housing prices using a dataset of residential properties. The goal is to demonstrate a fundamental understanding of machine learning principles by manually performing key steps, including data preprocessing, feature engineering, and model training using the **Normal Equation**[commiting].
 
 The project covers the complete data analysis workflow, from raw data to a working predictive model, without relying on high-level machine learning libraries like `scikit-learn` for the core algorithm.
 
